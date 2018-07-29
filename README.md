@@ -14,6 +14,11 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+## Run options
+There are 3 buttons on the top of the page that calls the back end method 
+back end ULR is hardcoded in app.components.ts
+data that is sent to backend is also hard coded and can be changed as per any tests you may want to run
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
